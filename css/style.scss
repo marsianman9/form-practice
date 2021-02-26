@@ -65,6 +65,11 @@ ul {
 a {
 	text-decoration: none;
 }
+
+input {
+	-webkit-appearance: none;
+	appearance: none;
+}
 ::-webkit-input-placeholder {
 	color: $gray;
 }
